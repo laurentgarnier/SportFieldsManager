@@ -1,0 +1,33 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.exe
+*.o
+*.so
+*.pdb
+*.user
+*.cache
+*.TMP
+
+.vs/
+obj/
+packages/
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.suo
