@@ -1,6 +1,6 @@
 # Sport fields booking manager
 
-In my company, several of us practice a sport collective during lunch break. 
+In my company, several of us practice a collective sport during lunch break. 
 Oragnizing the sessions is always a problem because we do not have a tool to share information and sign up as a participant. Sometimes it is a poll, sometimes a long serie of email, and at the end, we never know if there are enough of us to play or if there are too many of us and in that situation, who are the people who won't be able to play?
 
 I decided as a POC to propose a tool that will try to manage this.
