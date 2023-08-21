@@ -14,7 +14,7 @@ The main flow is as follows
     - A sport
     - Maximum player number
     - Minimum player number
-    - A date and an hour
+    - The session' planed date and hour
     - A duration
     - An expiration date (how many time before the expected date, the session will be canceled)
 * After a player signing in, he will have the list of all sessions ordered by date
